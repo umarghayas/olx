@@ -1,0 +1,37 @@
+.bg-nav {
+    background-color: #f7f8f8;
+}
+
+.nav-image {
+    border-radius: 50%;
+    padding: 5px;
+    background: #8e9eab;
+    background: -webkit-linear-gradient(to bottom, #eef2f3, #8e9eab);
+    background: linear-gradient(to bottom, #eef2f3, #8e9eab);
+    margin: 0 10px;
+}
+.searchbar{
+    height: 70px;
+}
+nav ul li {
+    margin-right: 20px;
+    font-size: 12px;
+}
+.location::placeholder{
+    color: black;
+    position: absolute;
+    left: 35px;
+}
+.location{
+    position: relative;
+    background-image: url(./images/search.png);
+    background-position: left;
+    background-position-x: 10px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+}
+nav {
+    height: 45px;
+    background-color: #f7f8f8;
+    /* align-items: center; */
+}
