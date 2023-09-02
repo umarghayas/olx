@@ -63,3 +63,15 @@ nav {
 .card img{
     height: 50%;
 }
+.bg-foot1{
+    background-color: #f7f8f9;
+    height: 220px;
+}
+.bg-foot1 ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.bg-foot1 ul img{
+    width: 150px;
+}
