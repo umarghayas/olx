@@ -1,5 +1,5 @@
 .bg-nav {
-    background-color: #f7f8f8;
+    background-color: #f0f0f0;
 }
 
 .nav-image {
@@ -11,7 +11,15 @@
     margin: 0 10px;
 }
 .searchbar{
-    height: 70px;
+    height: 60px;
+}
+.navend{
+    height: 35px;
+    font-size: 14px;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+.searchbar .navbar div{
+    width: 1000px;
 }
 nav ul li {
     margin-right: 20px;
@@ -34,4 +42,24 @@ nav {
     height: 45px;
     background-color: #f7f8f8;
     /* align-items: center; */
+}
+.sell{
+    border: none;
+    background-image: url(https://www.olx.com.pk/assets/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg);
+    background-repeat: no-repeat;
+    background-color: none;
+    width: 104px;
+    height: 48px;
+}
+.categories img{
+    width: 90px;
+}
+.categories p{
+    text-align: center;
+}
+.card{
+    height: 500px;
+}
+.card img{
+    height: 50%;
 }
